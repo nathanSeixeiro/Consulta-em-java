@@ -32,5 +32,3 @@ public class dbConnection {
 		CreateConnection();
 	}
 }
-
-// Sandrinha linda ass: nosso grupinho 
